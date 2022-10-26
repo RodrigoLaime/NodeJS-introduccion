@@ -1,0 +1,24 @@
+
+Acerca de esta documentación
+Uso y ejemplo
+Pruebas de aserción
+Seguimiento de contexto asíncrono
+Ganchos asíncronos
+Buffer
+Complementos de C++
+Complementos de C/C++ con Node-API
+API de incrustación de C++
+Procesos secundarios
+Grupo
+Opciones de línea de comandos
+Consola
+Paquete básico
+Cripto
+depurador
+API en desuso
+Canal de diagnóstico
+DNS
+Dominio
+errores
+Eventos
+sistema de archivos
